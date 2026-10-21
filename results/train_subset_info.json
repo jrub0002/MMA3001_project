@@ -1,0 +1,13 @@
+{
+    "seed": 42,
+    "selection_method": "class-aware_stratified_originals",
+    "image_count": 200,
+    "box_count_per_class": {
+        "loose-meat": 83,
+        "packaging-error": 75,
+        "twisted-meat": 54,
+        "unsealed": 36,
+        "wrinkle": 18
+    },
+    "manifest_sha256": "321f2b4c7c09daca01b776963f28c941e33b344c3956c65850732b804f8bf373"
+}

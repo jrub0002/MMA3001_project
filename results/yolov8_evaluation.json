@@ -1,0 +1,10 @@
+{
+    "yolov8n.pt": {
+        "weights_path": "/content/Project_MMA3001_33854920/runs/detect/yolo_training/yolov8n/weights/best.pt",
+        "mean_latency_ms": 247.5614608000069,
+        "throughput_fps": 4.039400950246663,
+        "peak_gpu_allocated_mb": 0.0,
+        "peak_gpu_reserved_mb": 0.0,
+        "device_name": "CPU"
+    }
+}
