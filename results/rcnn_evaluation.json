@@ -1,0 +1,7 @@
+{
+    "mean_latency_ms": 120.63851080000404,
+    "throughput_fps": 8.28922699201594,
+    "peak_gpu_allocated_mb": 11523.50048828125,
+    "peak_gpu_reserved_mb": 14436.0,
+    "device_name": "Tesla T4"
+}
